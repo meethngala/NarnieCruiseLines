@@ -7,11 +7,11 @@ Design a complete object-oriented system for cruise management based on the abov
 1. Create a cruise with ship, sailors and ports randomly. 
 2. Add passengers to a cruise. Both manual and random options must be given. 
 3. Provide reports on the following areas:  
-  a. Revenue generated from the cruise passengers by nationality and age 
-  b. Details of all Sailors that worked on a cruise and the total cost of paying their salaries and the total cost of docking at different ports 
-  c. List of passengers with their details sorted by moneySpentOnCruise 
-  d. Cruise evaluation by passengers (assume each passenger completes a 5 question survey at the end of the cruise and generate/store random responses) 
-  e. Did the ship make a profit?  Use the expenses and earnings from passengers. 
+    a. Revenue generated from the cruise passengers by nationality and age 
+    b. Details of all Sailors that worked on a cruise and the total cost of paying their salaries and the total cost of docking at    different ports 
+    c. List of passengers with their details sorted by moneySpentOnCruise 
+    d. Cruise evaluation by passengers (assume each passenger completes a 5 question survey at the end of the cruise and generate/store random responses) 
+    e. Did the ship make a profit?  Use the expenses and earnings from passengers. 
 4. Information about the cruise including employees, passengers, ports-of-call, and money spent by employees on the cruise must be stored in text files once the cruise is over. 
 
 Installation:
